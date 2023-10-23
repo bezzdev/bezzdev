@@ -5,7 +5,7 @@ programmer working on <br>
 
 gamedev
 previously working on <a href="https://twitter.com/tyrantstower">@Tyrant's Tower</a> <br>
-currently working on ~~***REDACTED***~~
+currently working on ██████
 
 <br>
 
